@@ -8,7 +8,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **sordeomkar2564@gmail.com**
-- 
 - ⚡ Fun fact **I think I am funny guy **
 
 <h3 align="left">Connect with me:</h3>
