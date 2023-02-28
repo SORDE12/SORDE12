@@ -1,6 +1,5 @@
 
 <div margin="auto" align="center">
-  <h1 >Hi 👋, I'm Omkar Sorde</h1>
 <img margin="auto" align="center" src="https://readme-typing-svg.herokuapp.com/?font=neuropol&color=%234E14B8&size=24&lines=I%27am+Aspiring+Fullstack+Dev...." />
 </div>
 
